@@ -1,15 +1,15 @@
-<p align="center"><img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" alt="ICON" width="150" height="150"/></p>
+<p align="center"><img src="https://te.legra.ph/file/f0cbb784e6d0810848df8.jpg"</p>
 
 <h4 align="center">
-    A simple Chat-Bot written in Pyrogram using Mongodb.
+    A Simple Chat-Bot Written In Pyrogram Using Mongodb.
 </h4>
 <p align="center">
-    <a href="https://t.me/TheYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="https://t.me/AplexGiveaways"> Support Channel </a> •
+    <a href="https://t.me/AplexGram"> Support Chat </a> 
 </p>
     
 
-# Yukki Chat Bot
+# AplexGram
 A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymous Identity, Supports Groups. Works Similarly like Livegram Bot
 
 ## 🖇 Prerequisites
@@ -22,22 +22,7 @@ A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymo
 ## 🚀 Heroku Deployment
 
 <h4>Click the button below to deploy Yukki Chat Bot on Heroku!</h4>    
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TeamYukki/YukkiChatBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
-
-
-## 🖇 VPS Deployment
-
-```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiChatBot
-shikhar@MacBook~ $ cd YukkiChatBot
-shikhar@MacBook~ $ pip3 install -r requirements.txt
-shikhar@MacBook~ $ mv sample.env .env
-```
-> Edit .env with your values and then start bot with
-
-```console
-shikhar@MacBook~ $ python3 main.py
-```
+<a href="https://dashboard.heroku.com/new?template=https://github.com/ItsSimpleBoy/AplexGram"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 ## 🔗 Commands
 
@@ -57,7 +42,7 @@ shikhar@MacBook~ $ python3 main.py
 
 ## 🗂 License
 
-This project is licensed under the **MIT License**. All designs were created by [@NotReallyShikhar](https://github.com/NotReallyShikhar) .
+This project is licensed under the **MIT License**. All designs were created by [@ItsSimpleBoy](https://github.com/ItsSimpleBoy) .
 
 See [LICENSE](LICENSE) for more information.
 
@@ -67,6 +52,5 @@ See [LICENSE](LICENSE) for more information.
 Special thanks to these amazing projects/people which/who help power Yukki Chat Bot:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
